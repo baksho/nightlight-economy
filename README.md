@@ -1,4 +1,4 @@
-## nightlight_economy
+## Description
 There are several notable research papers that explore the use of nighttime lights as a proxy for economic activity. This approach is widely used due to the availability of satellite data that provides consistent and objective measures of light emissions, which correlate with human activities and economic development. This approach based on machine learning algorithms explores the correlation between night time luminosity with economic development of a country.
 
 ***This project is not final. Updates are in progress.***
